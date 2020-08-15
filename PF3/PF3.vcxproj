@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c8b55cd0-c22e-4e40-95cb-44724a03dbe6}</ProjectGuid>
-    <RootNamespace>PF1</RootNamespace>
+    <ProjectGuid>{eee399f4-7baa-4d58-a655-7352a264d0a1}</ProjectGuid>
+    <RootNamespace>PF3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source_PF1.cpp" />
+    <ClCompile Include="Source_PF3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
