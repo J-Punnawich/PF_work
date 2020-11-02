@@ -43,11 +43,11 @@ int main()
     }
     if (upperCase >= 1 && downCase >= 1 && n >= 1  && s >= 1)
     {
-        printf("Valid");
+        printf("Accepted");
     }
     else
     {
-        printf("Invalid");
+        printf("Access denied");
     }
 
 
